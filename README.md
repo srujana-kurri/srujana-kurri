@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Srujana!</h1>
-- 🌱 I’m currently learning **literally a bit of everything**
 
-- 💬 Ask me about **how I’m doing**
+- 🌱 I’m currently learning **everything and anything that helps me grow as a developer and problem-solver**
+
+- 💬 Ask me about **how i'm doing**
 
 - 📫 How to reach me **srujanakurri273@gmail.com**
 
