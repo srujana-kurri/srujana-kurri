@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **everything and anything that helps me grow as a developer and problem-solver**
 
-- 💬 Ask me about **how i'm doing**
+- 💬 Ask me about **how I'm doing**
 
 - 📫 How to reach me **srujanakurri273@gmail.com**
 
